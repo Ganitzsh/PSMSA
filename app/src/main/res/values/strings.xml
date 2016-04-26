@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SMS</string>
+    <string name="title_sms_list">ACTIVE COMMUNICATIONS</string>
+    <string name="title_conv">INCOMING: %1$s</string>
+</resources>
